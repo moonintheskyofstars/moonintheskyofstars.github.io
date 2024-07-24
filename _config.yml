@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Moon's personal website"
-description              : "Graduate student at South China Normal University 
-                            Focusing on educational technology, especially curriculum technology design."
+description              : "Focusing on educational technology, especially curriculum technology design."
+                            
 repository               : "moonintheskyofstars.github.io"
 google_scholar_stats_use_cdn : true
 
