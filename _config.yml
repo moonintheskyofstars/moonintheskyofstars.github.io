@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Man Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Graduate student at South China Normal University, pursuing an M.Ed. in English Language Education. Passionate about integrating information technology into teaching and exploring the experiences of students and teachers in educational technology, focusing on curriculum technology design."
+  bio              : "Graduate student at South China Normal University 
+                      Focusing on educational technology, focusing on curriculum technology design."
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
