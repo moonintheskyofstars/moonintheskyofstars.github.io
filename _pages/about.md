@@ -21,7 +21,7 @@ I have 15 years of teaching experience, spanning both **middle and high school l
 
 In my tenure as headteacher for 10 years, I provided guidance on students' academic and psychological development, coordinating educational influences from teachers, school, family, and community. Additionally, I delivered demonstration classes and served as a key teacher, guiding over 200 fellow teachers. I also mentored **9 novice teachers one-on-one**, establishing trusted mentorship relationships.
 
-My research interests focus on $\color{blue}{integrating technology into teaching}$ to enhance and promote student learning experiences, engagement, and agency. My teaching experiences have significantly informed my research, providing valuable insights into enhancing educational equity and developing practical teaching methodologies that benefit a diverse range of students.
+My research interests focus on **integrating technology into teaching** to enhance and promote student learning experiences, engagement, and agency. My teaching experiences have significantly informed my research, providing valuable insights into enhancing educational equity and developing practical teaching methodologies that benefit a diverse range of students.
 
 # 📖 Educations
 - **2022.9-2025.9 (expected)**, South China Normal University, M.Ed. English Language Education. 
