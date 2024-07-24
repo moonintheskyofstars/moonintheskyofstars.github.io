@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I have 15 years of teaching experience, spanning both middle and high school levels. Since September 2009, I have served as Headteacher and English teacher at Shaoguan No.1 High School in Shaoguan, Guangdong. Holding the professional title of Senior English Teacher, I have guided over 400 students from their educational start to graduation. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+In my tenure as headteacher for 10 years, I provided guidance on students' academic and psychological development, coordinating educational influences from teachers, school, family, and community. Additionally, I delivered demonstration classes and served as a key teacher, guiding over 200 fellow teachers. I also mentored 9 novice teachers one-on-one, establishing trusted mentorship relationships.
+
+My research interests focus on integrating technology into teaching to enhance and promote student learning experiences, engagement, and agency. My teaching experiences have significantly informed my research, providing valuable insights into enhancing educational equity and developing practical teaching methodologies that benefit a diverse range of students.
 
 # 📖 Educations
 - *2022.9-2025.9 (expected)*, South China Normal University, M.Ed. English Language Education. 
