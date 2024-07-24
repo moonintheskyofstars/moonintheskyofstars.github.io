@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Moon's diamond sky"
-description              : "South China Normal University"
+description              : "Graduate student at South China Normal University 
+                            Focusing on educational technology, especially curriculum technology design."
 repository               : "moonintheskyofstars.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Man Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Graduate student at South China Normal University 
-                      Focusing on educational technology, focusing on curriculum technology design."
+  bio              : "South China Normal University"
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
